@@ -1,23 +1,18 @@
 **<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
 <p align="center">
   <a href="https://youtube.com/@kwicbotupdates">
-    <img src="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg">
+    <img src=./logo.jpg">
   </a>
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
-    <br />
-    <a href="https://t.me/kwichighspeedbot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
-    <br />
+
   </p>
-  <p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
-  </p>
+
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/KWICBOTS" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://github.com/TelegramfreeBots/" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -158,13 +153,3 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
-### Credits : 
-
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- <b>⍣ [KWIC](https://GitHub.com/KWICBOTS)</b>
-- Everyone In This Journey !
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [KWIC](https://t.me/kwicbotupdates) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/sharun_pheonix/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/KWICBOTS)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [𝘬𝘸𝘪𝘤𝘉𝘰𝘵 𝘜𝘱𝘥𝘢𝘵𝘦𝘴 ](https://t.me/kwicbotupdates)</b>
